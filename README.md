@@ -23,8 +23,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/ai-vehicle-detector.git
-   cd ai-vehicle-detector
+   git clone  https://github.com/RahulMandyal1/VehicleDetectorAI
+   cd VehicleDetectorAI
    ```
 
 2. Install the dependencies:
